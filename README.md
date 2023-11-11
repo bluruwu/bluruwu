@@ -1,7 +1,3 @@
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/62755247?v=4"  />
-
-###
-
 <h1 align="left">Hey! :wave:</h1>
 
 ###
