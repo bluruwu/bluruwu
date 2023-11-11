@@ -37,9 +37,3 @@
   <img width="12" />
   <img src="./assets/Cypress_Logomark_White-Color.png" height="40" alt="Cypress logo"/>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/bluruwu/bluruwu/output/snake.svg" alt="Snake animation" />
-
-###
