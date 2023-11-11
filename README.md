@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">I'm Juan Arias from Colombia :colombia:, and I'm currently pursuing a degree in Systems Engineering. My commitment is to always learn something new, have a great day! :wink:</h4>
+<p align="left">I'm Juan Arias from Colombia :colombia:, and I'm currently pursuing a degree in Systems Engineering. My commitment is to always learn something new, have a great day! :wink:</p>
 
 ###
 
