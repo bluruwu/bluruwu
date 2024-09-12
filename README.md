@@ -1,14 +1,17 @@
-<h1 align="left">Hey! :wave:</h1>
+<h1 align="left">Hey! :wave: :colombia: </h1>
 
 ###
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-black?style=flat-square&logo=linkedin&logoSize=auto)](https:///www.linkedin.com/in/juanariasb)
+[![LastFM Badge](https://img.shields.io/badge/LastFM-black?style=flat&logo=lastdotfm&logoColor=black&labelColor=%23f03208)](https://www.last.fm/user/Exogenesis28)
 
-<p align="left">I'm Juan Arias from Colombia :colombia:, and I'm currently pursuing a degree in Systems Engineering. My commitment is to always learn something new, have a great day! :wink:</p>
+<div align="left">I'm Juan Arias, currently pursuing a degree in Systems Engineering at Universidad del Valle. </div> 
+If you like music, you can also find me on LastFM. :penguin:
 
 ###
 
 <br clear="both">
 
-<h2 align="left">Currently learning/coding with:</h2>
+<h2 align="left">Learning/Coding with:</h2>
 
 ###
 
@@ -25,11 +28,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/sourcetree/0052CC" height="40" alt="sourcetree logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
-  <img width="12" />
   <img src="./assets/Cypress_Logomark_White-Color.png" height="40" alt="Cypress logo"/>
+  <img width="12" />
+  <img alt="Odoo logo" height="40" src="https://img.shields.io/badge/-purple?style=flat&logo=odoo&logoColor=white&logoSize=auto">
 </div>
